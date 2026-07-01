@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/divyata-maurya/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/divyata-maurya/Leetcode/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyata-maurya/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1920-build-array-from-permutation](https://github.com/divyata-maurya/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Simulation
@@ -44,4 +45,5 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/divyata-maurya/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/divyata-maurya/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
