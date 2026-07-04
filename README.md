@@ -27,6 +27,7 @@
 | [0066-plus-one](https://github.com/divyata-maurya/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/divyata-maurya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyata-maurya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/divyata-maurya/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/divyata-maurya/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/divyata-maurya/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyata-maurya/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/divyata-maurya/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/divyata-maurya/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
