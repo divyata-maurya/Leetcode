@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyata-maurya/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/divyata-maurya/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/divyata-maurya/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/divyata-maurya/Leetcode/tree/master/0066-plus-one) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyata-maurya/Leetcode/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyata-maurya/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
