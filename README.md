@@ -30,6 +30,7 @@
 | [0088-merge-sorted-array](https://github.com/divyata-maurya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyata-maurya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/divyata-maurya/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/divyata-maurya/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/divyata-maurya/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/divyata-maurya/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/divyata-maurya/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -49,11 +50,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyata-maurya/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/divyata-maurya/Leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyata-maurya/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/divyata-maurya/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/divyata-maurya/Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/divyata-maurya/Leetcode/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyata-maurya/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
