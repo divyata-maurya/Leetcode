@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/divyata-maurya/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/divyata-maurya/Leetcode/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/divyata-maurya/Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyata-maurya/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
