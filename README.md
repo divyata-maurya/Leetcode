@@ -34,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyata-maurya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/divyata-maurya/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyata-maurya/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/divyata-maurya/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyata-maurya/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/divyata-maurya/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/divyata-maurya/Leetcode/tree/master/0414-third-maximum-number) |
@@ -54,18 +55,21 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyata-maurya/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/divyata-maurya/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyata-maurya/Leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyata-maurya/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/divyata-maurya/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/divyata-maurya/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyata-maurya/Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/divyata-maurya/Leetcode/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyata-maurya/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/divyata-maurya/Leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyata-maurya/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -98,4 +102,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/divyata-maurya/Leetcode/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/divyata-maurya/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
