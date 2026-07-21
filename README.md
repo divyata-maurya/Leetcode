@@ -45,6 +45,7 @@
 | [0485-max-consecutive-ones](https://github.com/divyata-maurya/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/divyata-maurya/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/divyata-maurya/Leetcode/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/divyata-maurya/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyata-maurya/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyata-maurya/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyata-maurya/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -111,6 +112,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyata-maurya/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/divyata-maurya/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/divyata-maurya/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/divyata-maurya/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyata-maurya/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Greedy
 |  |
