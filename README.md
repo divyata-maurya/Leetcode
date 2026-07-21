@@ -34,6 +34,7 @@
 | [0088-merge-sorted-array](https://github.com/divyata-maurya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyata-maurya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/divyata-maurya/Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/divyata-maurya/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyata-maurya/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/divyata-maurya/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyata-maurya/Leetcode/tree/master/0217-contains-duplicate) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/divyata-maurya/Leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/divyata-maurya/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyata-maurya/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/divyata-maurya/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/divyata-maurya/Leetcode/tree/master/0704-binary-search) |
