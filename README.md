@@ -116,4 +116,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divyata-maurya/Leetcode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/divyata-maurya/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
