@@ -1,31 +1,43 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
+        int first_occurence= Isfirst(nums, target);
+        int second_occurence= Islast(nums, target);
 
-        int first_occurence= occurence(nums,target,true);
-        int last_occurence= occurence(nums,target,false);
-        int [] ans= {first_occurence, last_occurence};
+        int[] ans= {first_occurence, second_occurence};
         return ans;
-        
     }
-    private static int occurence(int[]nums, int target, boolean isFirst){
-        int start=0;
+    private int Isfirst(int[] nums, int target){
+        int start= 0;
         int end= nums.length-1;
-        int bound=-1;
+        int ans=-1;
         while(start<=end){
             int mid= start+(end-start)/2;
             if(nums[mid]==target){
-                bound=mid;
-                if(isFirst){
-                    end=mid-1;
-                }else{
-                    start=mid+1;
-                }
+                ans=mid;
+                end=mid-1;
             }else if(nums[mid]<target){
                 start=mid+1;
             }else{
                 end=mid-1;
             }
         }
-        return bound;
+        return ans;
+    }
+    private int Islast(int[] nums, int target){
+        int start= 0;
+        int end= nums.length-1;
+        int ans=-1;
+        while(start<=end){
+            int mid= start+(end-start)/2;
+            if(nums[mid]==target){
+                ans=mid;
+                start=mid+1;
+            }else if(nums[mid]<target){
+                start=mid+1;
+            }else{
+                end=mid-1;
+            }
+        }
+        return ans;
     }
 }
