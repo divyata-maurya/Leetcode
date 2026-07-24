@@ -48,6 +48,7 @@
 | [0724-find-pivot-index](https://github.com/divyata-maurya/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/divyata-maurya/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyata-maurya/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/divyata-maurya/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyata-maurya/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyata-maurya/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/divyata-maurya/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -116,6 +117,7 @@
 | [0704-binary-search](https://github.com/divyata-maurya/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/divyata-maurya/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyata-maurya/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/divyata-maurya/Leetcode/tree/master/1095-find-in-mountain-array) |
 ## Greedy
 |  |
 | ------- |
@@ -143,4 +145,8 @@
 | [1661-average-time-of-process-per-machine](https://github.com/divyata-maurya/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/divyata-maurya/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/divyata-maurya/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/divyata-maurya/Leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
