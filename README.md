@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyata-maurya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/divyata-maurya/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/divyata-maurya/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -43,6 +44,7 @@
 | [0238-product-of-array-except-self](https://github.com/divyata-maurya/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/divyata-maurya/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/divyata-maurya/Leetcode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/divyata-maurya/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/divyata-maurya/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/divyata-maurya/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/divyata-maurya/Leetcode/tree/master/0704-binary-search) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/divyata-maurya/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/divyata-maurya/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/divyata-maurya/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/divyata-maurya/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -116,6 +119,7 @@
 | [0162-find-peak-element](https://github.com/divyata-maurya/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyata-maurya/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/divyata-maurya/Leetcode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/divyata-maurya/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/divyata-maurya/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/divyata-maurya/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyata-maurya/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -124,6 +128,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/divyata-maurya/Leetcode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/divyata-maurya/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
