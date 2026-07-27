@@ -34,6 +34,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyata-maurya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/divyata-maurya/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/divyata-maurya/Leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/divyata-maurya/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/divyata-maurya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyata-maurya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/divyata-maurya/Leetcode/tree/master/0136-single-number) |
@@ -104,6 +105,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/divyata-maurya/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/divyata-maurya/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
@@ -116,6 +118,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/divyata-maurya/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyata-maurya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/divyata-maurya/Leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/divyata-maurya/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/divyata-maurya/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyata-maurya/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/divyata-maurya/Leetcode/tree/master/0268-missing-number) |
