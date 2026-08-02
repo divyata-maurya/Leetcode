@@ -158,6 +158,7 @@
 | [1683-invalid-tweets](https://github.com/divyata-maurya/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/divyata-maurya/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/divyata-maurya/Leetcode/tree/master/1873-calculate-special-bonus) |
+| [1965-employees-with-missing-information](https://github.com/divyata-maurya/Leetcode/tree/master/1965-employees-with-missing-information) |
 ## Interactive
 |  |
 | ------- |
