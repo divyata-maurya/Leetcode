@@ -178,4 +178,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/divyata-maurya/Leetcode/tree/master/0206-reverse-linked-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/divyata-maurya/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
