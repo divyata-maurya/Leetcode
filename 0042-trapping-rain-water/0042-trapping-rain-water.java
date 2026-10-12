@@ -12,7 +12,7 @@ class Solution {
 
         while(left<right){
             if(height[left]< height[right]){
-                if(height[left]>leftmax){
+                if(height[left]>=leftmax){
                     leftmax=height[left];
                 }
                 else{
