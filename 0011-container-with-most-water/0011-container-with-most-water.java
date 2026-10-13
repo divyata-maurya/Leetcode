@@ -7,8 +7,9 @@ class Solution {
         int max=0;
 
         while(start<end){
-            int minHeight= Math.min(height[start],height[end]);
             int width= end- start;
+            int minHeight= Math.min(height[start],height[end]);
+           
 
             int maxArea= width * minHeight;
             max= Math.max(max,maxArea);
@@ -20,6 +21,5 @@ class Solution {
             }
         }
         return max;
-
     }
 }
